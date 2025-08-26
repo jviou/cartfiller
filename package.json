@@ -1,10 +1,9 @@
 {
   "name": "cartfiller",
   "version": "1.0.0",
-  "type": "module",
   "main": "cartfiller.js",
   "dependencies": {
-    "playwright": "1.55.0",
-    "express": "^4.19.0"
+    "express": "4.19.2",
+    "playwright": "1.55.0"
   }
 }
